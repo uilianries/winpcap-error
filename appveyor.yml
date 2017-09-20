@@ -7,6 +7,7 @@ environment:
 
     CONAN_REFERENCE: "Hello/0.1.0"
     CONAN_CHANNEL: "ci"
+    CONAN_USERNAME: "uilianries"
     VS150COMNTOOLS: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\Common7\\Tools\\"
     CONAN_STABLE_BRANCH_PATTERN: "release/*"
     CONAN_UPLOAD_ONLY_WHEN_STABLE: 1
